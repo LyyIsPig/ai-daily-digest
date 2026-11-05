@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "timezone": "Asia/Shanghai",
+  "last_successful_run_at": null,
+  "baseline_report": "reports/2026-11-05.md",
+  "works": [
+    {
+      "work_id": "arxiv:2611.01120",
+      "title": "StreamDuo: A Live Commentator and a Research Agent for Unseen Games",
+      "source_keys": [
+        "arxiv:2611.01120"
+      ],
+      "aliases": [
+        "github:zixiangao/streamduo-code"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.01120",
+        "https://github.com/ZixianGao/StreamDuo-code"
+      ],
+      "first_seen_at": "2026-11-05",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-05",
+      "last_reported_date": "2026-11-05",
+      "last_reported_summary": "在跨游戏直播解说中学习何时向研究 Agent 查询 Wiki，使用含噪检索结果；已报道作者摘要中的实体召回和知识泄漏指标。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-05.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.06910",
+      "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+      "source_keys": [
+        "arxiv:2611.06910"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.06910"
+      ],
+      "first_seen_at": "2026-11-05",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-05",
+      "last_reported_date": "2026-11-05",
+      "last_reported_summary": "56 项端到端科研任务，结合验证器与专家评分；已报道 22 模型、26 配置及每配置 168 次 rollout 中通过次数不超过 46 的摘要结果。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-05.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.05320",
+      "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
+      "source_keys": [
+        "arxiv:2611.05320"
+      ],
+      "aliases": [
+        "github:dagroup-pku/pyrua-lean#datafarm"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.05320",
+        "https://github.com/DAGroup-PKU/PyRUA-Lean/tree/DataFarm"
+      ],
+      "first_seen_at": "2026-11-05",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-05",
+      "last_reported_date": "2026-11-05",
+      "last_reported_summary": "编程 Agent 构建仿真场景、控制器和判定器，生成机器人训练数据；已报道作者摘要中的 93 对 84 次成功结果。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-05.md"
+      ]
+    },
+    {
+      "work_id": "github:nvidia/auto-ontology",
+      "title": "NVIDIA/auto-ontology",
+      "source_keys": [
+        "github:nvidia/auto-ontology"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/NVIDIA/auto-ontology"
+      ],
+      "first_seen_at": "2026-11-05",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-05",
+      "last_reported_date": "2026-11-05",
+      "last_reported_summary": "企业业务语义与图结构、元数据发现、来源追踪、MCP/CLI/API；依据 README 介绍部署门槛和 Apache-2.0 许可证。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-05.md"
+      ]
+    },
+    {
+      "work_id": "github:max-sixty/worktrunk",
+      "title": "max-sixty/worktrunk",
+      "source_keys": [
+        "github:max-sixty/worktrunk"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/max-sixty/worktrunk"
+      ],
+      "first_seen_at": "2026-11-05",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-05",
+      "last_reported_date": "2026-11-05",
+      "last_reported_summary": "管理 Git worktree，支持切换、列表、清理及 hooks；依据 README 介绍 Windows 命令名冲突和使用场景。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-05.md"
+      ]
+    }
+  ]
+}
