@@ -3,6 +3,8 @@
 中文 AI / Agent 日报归档。内容来自 Hugging Face Daily Papers 与 GitHub Trending，优先关注 Agent、LLM、RAG、编程助手和评测。
 
 - 日报：[reports/2026-11-05.md](reports/2026-11-05.md)
+- 固定日报模板：[config/report-template.md](config/report-template.md)
+- 用户确认的完整示例：[config/report-example.md](config/report-example.md)
 - 任务规则：[config/task.md](config/task.md)
 - 云端定时任务指令：[config/schedule-prompt.md](config/schedule-prompt.md)
 - 跨日去重索引：[state/history.json](state/history.json)

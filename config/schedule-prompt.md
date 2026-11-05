@@ -10,7 +10,12 @@
 每次生成中文 Markdown，内容来自 Hugging Face Daily Papers 和 GitHub Trending。
 
 使用 GitHub 连接访问 LyyIsPig/ai-daily-digest 的默认分支。
-每次先读取 config/task.md、state/history.json 和近期日报，严格遵循规则筛选和跨日去重。
+每次先读取 config/task.md、config/report-template.md、config/report-example.md、state/history.json 和近期日报。
+以后日报统一使用已确认的新模板，历史日报仅用于去重：
+今日速览按 arXiv / GitHub 分组，正文全部条目逐项列出，每项附一句通俗比喻；
+正文每项均加“比喻讲解”，保留来源链接；
+不写“阅读依据”“今天可以做的一件事”“采集说明”，采集异常在任务结果中返回。
+严格遵循规则筛选和跨日去重。
 将日报写入 reports/YYYY-MM-DD.md，更新后的索引写入 state/history.json，
 以同一提交快速前进写入默认分支，不强推。
 同一天重试保留当天已报道内容，不以“无新增”覆盖已有完整日报。
