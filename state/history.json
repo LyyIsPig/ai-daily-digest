@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": null,
+  "last_successful_run_at": "2026-11-05T07:40:00Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -105,6 +105,47 @@
       "first_reported_date": "2026-11-05",
       "last_reported_date": "2026-11-05",
       "last_reported_summary": "管理 Git worktree，支持切换、列表、清理及 hooks；依据 README 介绍 Windows 命令名冲突和使用场景。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-05.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.06483",
+      "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+      "source_keys": [
+        "arxiv:2611.06483"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.06483",
+        "https://rethinking-agentic-rl.github.io/"
+      ],
+      "first_seen_at": "2026-11-05",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-05",
+      "last_reported_date": "2026-11-05",
+      "last_reported_summary": "多轮 Agent 强化学习的优势依赖交互预算，主要表现为纠错和长程韧性；摘要报告 BudgetMix RL 在不同执行设置下更稳健。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-05.md"
+      ]
+    },
+    {
+      "work_id": "github:thedotmack/claude-mem",
+      "title": "thedotmack/claude-mem",
+      "source_keys": [
+        "github:thedotmack/claude-mem"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/thedotmack/claude-mem"
+      ],
+      "first_seen_at": "2026-11-05",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-05",
+      "last_reported_date": "2026-11-05",
+      "last_reported_summary": "面向多种 Agent 的跨会话持久上下文与记忆注入；官方仓库说明兼容 Claude Code、Codex 等工具，Apache-2.0。",
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-05.md"
