@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-05T07:40:00Z",
+  "last_successful_run_at": "2026-11-06T00:01:00Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -149,6 +149,118 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-05.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.03233",
+      "title": "Axion 1.0: Open Agent Foundation Models, Simplified",
+      "source_keys": [
+        "arxiv:2611.03233"
+      ],
+      "aliases": [
+        "github:bytedance/axion1_0"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.03233",
+        "https://github.com/bytedance/axion1_0",
+        "https://axion1-0.github.io/"
+      ],
+      "first_seen_at": "2026-11-06",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-06",
+      "last_reported_date": "2026-11-06",
+      "last_reported_summary": "开放三阶段 Agent 训练配方：两阶段 SFT 后接 RL，并发布数据、验证流程与训练代码。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-06.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.05036",
+      "title": "ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents",
+      "source_keys": [
+        "arxiv:2611.05036"
+      ],
+      "aliases": [
+        "github:dongguanting/toolspace"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.05036",
+        "https://github.com/dongguanting/ToolSpace",
+        "https://toolspace-agent.github.io/"
+      ],
+      "first_seen_at": "2026-11-06",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-06",
+      "last_reported_date": "2026-11-06",
+      "last_reported_summary": "从真实工具调用轨迹构建可回放环境和可验证长程任务；作者报告在多基准上的训练和评测结果。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-06.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.03634",
+      "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+      "source_keys": [
+        "arxiv:2611.03634"
+      ],
+      "aliases": [
+        "github:aiming-lab/webharbor"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.03634",
+        "https://github.com/aiming-lab/WebHarbor",
+        "https://aiming-lab.github.io/WebHarbor/"
+      ],
+      "first_seen_at": "2026-11-06",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-06",
+      "last_reported_date": "2026-11-06",
+      "last_reported_summary": "153 个可执行、容器化网站环境与 3,518 个任务，用于稳定的 GUI Agent 评测与 RL。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-06.md"
+      ]
+    },
+    {
+      "work_id": "github:vercel-labs/agent-desktop",
+      "title": "vercel-labs/agent-desktop",
+      "source_keys": [
+        "github:vercel-labs/agent-desktop"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/vercel-labs/agent-desktop"
+      ],
+      "first_seen_at": "2026-11-06",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-06",
+      "last_reported_date": "2026-11-06",
+      "last_reported_summary": "通过系统无障碍树让 Agent 结构化读取和操作桌面应用，提供快照与元素引用闭环。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-06.md"
+      ]
+    },
+    {
+      "work_id": "github:vercel-labs/agent-browser",
+      "title": "vercel-labs/agent-browser",
+      "source_keys": [
+        "github:vercel-labs/agent-browser"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/vercel-labs/agent-browser"
+      ],
+      "first_seen_at": "2026-11-06",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-06",
+      "last_reported_date": "2026-11-06",
+      "last_reported_summary": "浏览器自动化 CLI：以快照和元素引用完成可复查的页面操作。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-06.md"
       ]
     }
   ]
