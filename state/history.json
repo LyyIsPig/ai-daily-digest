@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-06T00:01:00Z",
+  "last_successful_run_at": "2026-11-06T23:59:36Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -261,6 +261,116 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-06.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.04277",
+      "title": "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training",
+      "source_keys": [
+        "arxiv:2611.04277"
+      ],
+      "aliases": [
+        "github:zhangkangning/harness-s"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.04277",
+        "https://github.com/zhangkangning/Harness-S"
+      ],
+      "first_seen_at": "2026-11-07",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-07",
+      "last_reported_date": "2026-11-07",
+      "last_reported_summary": "以兄弟 harness 选择性替换失败轨迹，使训练出的策略在原始基础 harness 下也获得提升。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-07.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.03743",
+      "title": "EvoMemState: Evolving Memory State for Personal Agents",
+      "source_keys": [
+        "arxiv:2611.03743"
+      ],
+      "aliases": [
+        "github:xmudeeplit/evomemstate"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.03743",
+        "https://github.com/XMUDeepLIT/EvoMemState"
+      ],
+      "first_seen_at": "2026-11-07",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-07",
+      "last_reported_date": "2026-11-07",
+      "last_reported_summary": "以关系状态和请求特定推理状态增强个人 Agent 的长期记忆使用。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-07.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.04894",
+      "title": "VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents",
+      "source_keys": [
+        "arxiv:2611.04894"
+      ],
+      "aliases": [
+        "github:antgroup/vissearch-bench"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.04894",
+        "https://github.com/AntGroup/VisSearch-Bench",
+        "https://dingwu1021.github.io/VisSearch-Bench/"
+      ],
+      "first_seen_at": "2026-11-07",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-07",
+      "last_reported_date": "2026-11-07",
+      "last_reported_summary": "204 个任务评估多模态 Agent 如何跨视觉线索和搜索步骤管理证据；作者报告最佳完整成功率 26.47%。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-07.md"
+      ]
+    },
+    {
+      "work_id": "github:google/skills",
+      "title": "google/skills",
+      "source_keys": [
+        "github:google/skills"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/google/skills"
+      ],
+      "first_seen_at": "2026-11-07",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-07",
+      "last_reported_date": "2026-11-07",
+      "last_reported_summary": "面向 Google 产品与技术的 Agent Skills 集合，支持选择技能并按项目或全局范围安装。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-07.md"
+      ]
+    },
+    {
+      "work_id": "github:cloudflare/security-audit-skill",
+      "title": "cloudflare/security-audit-skill",
+      "source_keys": [
+        "github:cloudflare/security-audit-skill"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/cloudflare/security-audit-skill"
+      ],
+      "first_seen_at": "2026-11-07",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-07",
+      "last_reported_date": "2026-11-07",
+      "last_reported_summary": "多阶段 coding-Agent 安全审计工作流，包含侦察、覆盖驱动排查和独立发现验证。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-07.md"
       ]
     }
   ]
