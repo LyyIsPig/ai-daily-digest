@@ -372,6 +372,175 @@
       "report_paths": [
         "reports/2026-11-07.md"
       ]
+    },
+    {
+      "work_id": "arxiv:2611.08449",
+      "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+      "source_keys": [
+        "arxiv:2611.08449"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.08449"
+      ],
+      "first_seen_at": "2026-11-09",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-09",
+      "last_reported_date": "2026-11-09",
+      "last_reported_summary": "让机器人或驾驶模型一次预测完整的点、框或轨迹。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-08.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.08237",
+      "title": "Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling",
+      "source_keys": [
+        "arxiv:2611.08237"
+      ],
+      "aliases": [
+        "github:wxj630/terminal-bench-math-modeling"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.08237",
+        "https://github.com/wxj630/terminal-bench-math-modeling"
+      ],
+      "first_seen_at": "2026-11-09",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-09",
+      "last_reported_date": "2026-11-09",
+      "last_reported_summary": "把竞赛题面和附件放进终端，让 Agent 提交可自动检查的数值解。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-08.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.06500",
+      "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
+      "source_keys": [
+        "arxiv:2611.06500"
+      ],
+      "aliases": [
+        "github:thu-agent/coca-cola"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.06500",
+        "https://github.com/THU-Agent/Coca-cola"
+      ],
+      "first_seen_at": "2026-11-09",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-09",
+      "last_reported_date": "2026-11-09",
+      "last_reported_summary": "将长篇工具返回内容压成更短的内部表示，供 Agent 决定下一步。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-08.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.08483",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "source_keys": [
+        "arxiv:2611.08483"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.08483"
+      ],
+      "first_seen_at": "2026-11-09",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-09",
+      "last_reported_date": "2026-11-09",
+      "last_reported_summary": "并行探索数学与科学计算问题，并交换模型的内部状态来汇合想法。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-09.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.00883",
+      "title": "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand",
+      "source_keys": [
+        "arxiv:2611.00883"
+      ],
+      "aliases": [
+        "github:george-ling3/bestrand"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.00883",
+        "https://github.com/George-Ling3/BestRand"
+      ],
+      "first_seen_at": "2026-11-09",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-09",
+      "last_reported_date": "2026-11-09",
+      "last_reported_summary": "挑选较小的评测子集，降低偶然抽中偏科题组造成的估计误差。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-09.md"
+      ]
+    },
+    {
+      "work_id": "github:anthropics/claude-quickstarts",
+      "title": "anthropics/claude-quickstarts",
+      "source_keys": [
+        "github:anthropics/claude-quickstarts"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/anthropics/claude-quickstarts"
+      ],
+      "first_seen_at": "2026-11-09",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-09",
+      "last_reported_date": "2026-11-09",
+      "last_reported_summary": "提供客服、数据分析、桌面和浏览器操作等 Claude API 示例。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-09.md"
+      ]
+    },
+    {
+      "work_id": "github:anthropics/skills",
+      "title": "anthropics/skills",
+      "source_keys": [
+        "github:anthropics/skills"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/anthropics/skills"
+      ],
+      "first_seen_at": "2026-11-09",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-09",
+      "last_reported_date": "2026-11-09",
+      "last_reported_summary": "把指令、脚本和资料打包成独立技能，供 Claude 按任务加载。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-09.md"
+      ]
+    },
+    {
+      "work_id": "github:ranxianglei/billion-context",
+      "title": "ranxianglei/billion-context",
+      "source_keys": [
+        "github:ranxianglei/billion-context"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/ranxianglei/billion-context"
+      ],
+      "first_seen_at": "2026-11-09",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-09",
+      "last_reported_date": "2026-11-09",
+      "last_reported_summary": "为编码 Agent 提供压缩、查找和恢复对话区间的工具。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-09.md"
+      ]
     }
   ]
 }
