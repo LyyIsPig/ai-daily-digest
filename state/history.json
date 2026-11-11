@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-09T00:00:05Z",
+  "last_successful_run_at": "2026-11-11T00:04:01.186Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -640,6 +640,133 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-10.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.12762",
+      "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+      "source_keys": [
+        "arxiv:2611.12762"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.12762",
+        "https://alpha-innovator.github.io/"
+      ],
+      "first_seen_at": "2026-11-10",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-11",
+      "last_reported_date": "2026-11-11",
+      "last_reported_summary": "收录于 reports/2026-11-11.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-11.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.12886",
+      "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+      "source_keys": [
+        "arxiv:2611.12886"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.12886"
+      ],
+      "first_seen_at": "2026-11-10",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-11",
+      "last_reported_date": "2026-11-11",
+      "last_reported_summary": "收录于 reports/2026-11-11.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-11.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.10304",
+      "title": "Longtail-SWE: High-Quality SWE Tasks for Underrepresented Languages",
+      "source_keys": [
+        "arxiv:2611.10304"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.10304",
+        "https://longtail-swe.com/"
+      ],
+      "first_seen_at": "2026-11-10",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-11",
+      "last_reported_date": "2026-11-11",
+      "last_reported_summary": "收录于 reports/2026-11-11.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-11.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2610.36980",
+      "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations",
+      "source_keys": [
+        "arxiv:2610.36980"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2610.36980"
+      ],
+      "first_seen_at": "2026-11-10",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-11",
+      "last_reported_date": "2026-11-11",
+      "last_reported_summary": "收录于 reports/2026-11-11.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-11.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.01112",
+      "title": "Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation",
+      "source_keys": [
+        "arxiv:2611.01112"
+      ],
+      "aliases": [
+        "github:lose4578/auriga"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.01112",
+        "https://auriga.stelledge.com/",
+        "https://github.com/lose4578/Auriga"
+      ],
+      "first_seen_at": "2026-11-10",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-11",
+      "last_reported_date": "2026-11-11",
+      "last_reported_summary": "收录于 reports/2026-11-11.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-11.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.05791",
+      "title": "FlyHash for LLM Agent Memory: An Empirical Validation and a New Application",
+      "source_keys": [
+        "arxiv:2611.05791"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.05791",
+        "https://huggingface.co/spaces/pranamhan/flyhash-agent-memory-demo"
+      ],
+      "first_seen_at": "2026-11-10",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-11",
+      "last_reported_date": "2026-11-11",
+      "last_reported_summary": "收录于 reports/2026-11-11.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-11.md"
       ]
     }
   ]
