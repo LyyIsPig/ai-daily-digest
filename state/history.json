@@ -899,6 +899,87 @@
       "report_paths": [
         "reports/2026-11-12.md"
       ]
+    },
+    {
+      "work_id": "github:herdrdev/herdr",
+      "title": "herdrdev/herdr",
+      "source_keys": [
+        "github:herdrdev/herdr"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/herdrdev/herdr"
+      ],
+      "first_seen_at": "2026-11-12",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-12",
+      "last_reported_date": "2026-11-12",
+      "last_reported_summary": "把本地和 SSH 终端放到一个界面，显示哪些会话正在工作或等待输入。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-11.md"
+      ]
+    },
+    {
+      "work_id": "github:zed-industries/zed",
+      "title": "zed-industries/zed",
+      "source_keys": [
+        "github:zed-industries/zed"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/zed-industries/zed",
+        "https://zed.dev/docs/ai/agent-panel"
+      ],
+      "first_seen_at": "2026-11-12",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-12",
+      "last_reported_date": "2026-11-12",
+      "last_reported_summary": "把编辑器、协作能力和 Agent Panel 放在同一个工作界面。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-11.md"
+      ]
+    },
+    {
+      "work_id": "github:addyosmani/agent-skills",
+      "title": "addyosmani/agent-skills",
+      "source_keys": [
+        "github:addyosmani/agent-skills"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/addyosmani/agent-skills"
+      ],
+      "first_seen_at": "2026-11-12",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-12",
+      "last_reported_date": "2026-11-12",
+      "last_reported_summary": "用可加载的技能覆盖需求、计划、开发、测试和审阅等步骤。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-12.md"
+      ]
+    },
+    {
+      "work_id": "github:shadcn/improve",
+      "title": "shadcn/improve",
+      "source_keys": [
+        "github:shadcn/improve"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/shadcn/improve"
+      ],
+      "first_seen_at": "2026-11-12",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-12",
+      "last_reported_date": "2026-11-12",
+      "last_reported_summary": "先审阅代码并列出证据，再把选中的改进项写成包含验收步骤的计划。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-12.md"
+      ]
     }
   ]
 }
