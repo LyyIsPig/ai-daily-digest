@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-11T00:04:01.186Z",
+  "last_successful_run_at": "2026-11-12T00:05:46.825Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -767,6 +767,137 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-11.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.12885",
+      "title": "World In-Context Learning for Agentic Robot Manipulation",
+      "source_keys": [
+        "arxiv:2611.12885"
+      ],
+      "aliases": [
+        "github:archeone-ai/roboscript"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.12885",
+        "https://github.com/ArcheOne-AI/RoboScript"
+      ],
+      "first_seen_at": "2026-11-11",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-12",
+      "last_reported_date": "2026-11-12",
+      "last_reported_summary": "收录于 reports/2026-11-12.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-12.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.14320",
+      "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+      "source_keys": [
+        "arxiv:2611.14320"
+      ],
+      "aliases": [
+        "github:yukyeongleee/wikitrace"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.14320",
+        "https://github.com/yukyeongleee/wikitrace"
+      ],
+      "first_seen_at": "2026-11-11",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-12",
+      "last_reported_date": "2026-11-12",
+      "last_reported_summary": "收录于 reports/2026-11-12.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-12.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.14309",
+      "title": "MMDM: Measuring Massive Multitask Decision Making",
+      "source_keys": [
+        "arxiv:2611.14309"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.14309",
+        "https://mmdm-benchmark.github.io/"
+      ],
+      "first_seen_at": "2026-11-11",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-12",
+      "last_reported_date": "2026-11-12",
+      "last_reported_summary": "收录于 reports/2026-11-12.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-12.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.07464",
+      "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
+      "source_keys": [
+        "arxiv:2611.07464"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.07464"
+      ],
+      "first_seen_at": "2026-11-11",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-12",
+      "last_reported_date": "2026-11-12",
+      "last_reported_summary": "收录于 reports/2026-11-12.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-12.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.01527",
+      "title": "From Tool State to Scientific Action: Auditing Decision Provenance in Biomedical Research Agents",
+      "source_keys": [
+        "arxiv:2611.01527"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.01527",
+        "https://intosyn.github.io/BioAgent-DF/"
+      ],
+      "first_seen_at": "2026-11-11",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-12",
+      "last_reported_date": "2026-11-12",
+      "last_reported_summary": "收录于 reports/2026-11-12.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-12.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.14115",
+      "title": "LEASH: Stay Safe in Agentic Robotics",
+      "source_keys": [
+        "arxiv:2611.14115"
+      ],
+      "aliases": [
+        "github:zhuqinfeng1999/leash"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.14115",
+        "https://github.com/zhuqinfeng1999/LEASH"
+      ],
+      "first_seen_at": "2026-11-11",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-12",
+      "last_reported_date": "2026-11-12",
+      "last_reported_summary": "收录于 reports/2026-11-12.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-12.md"
       ]
     }
   ]
