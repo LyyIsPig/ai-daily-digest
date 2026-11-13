@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-12T00:05:46.825Z",
+  "last_successful_run_at": "2026-11-13T00:06:01.601Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -979,6 +979,132 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-12.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.13410",
+      "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
+      "source_keys": [
+        "arxiv:2611.13410"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.13410",
+        "https://air-embodied-brain.github.io/"
+      ],
+      "first_seen_at": "2026-11-12",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-13",
+      "last_reported_date": "2026-11-13",
+      "last_reported_summary": "收录于 reports/2026-11-13.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-13.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2608.22237",
+      "title": "Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+      "source_keys": [
+        "arxiv:2608.22237"
+      ],
+      "aliases": [
+        "github:liuzedooong/sparsereading"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2608.22237",
+        "https://github.com/Liuzedooong/SparseReading"
+      ],
+      "first_seen_at": "2026-11-12",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-13",
+      "last_reported_date": "2026-11-13",
+      "last_reported_summary": "收录于 reports/2026-11-13.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-13.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.12304",
+      "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
+      "source_keys": [
+        "arxiv:2611.12304"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.12304",
+        "https://inference-rsi.com/"
+      ],
+      "first_seen_at": "2026-11-12",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-13",
+      "last_reported_date": "2026-11-13",
+      "last_reported_summary": "收录于 reports/2026-11-13.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-13.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.11306",
+      "title": "ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping",
+      "source_keys": [
+        "arxiv:2611.11306"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.11306",
+        "https://scrapebench.github.io/"
+      ],
+      "first_seen_at": "2026-11-12",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-13",
+      "last_reported_date": "2026-11-13",
+      "last_reported_summary": "收录于 reports/2026-11-13.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-13.md"
+      ]
+    },
+    {
+      "work_id": "github:openai/codex-security",
+      "title": "openai/codex-security",
+      "source_keys": [
+        "github:openai/codex-security"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/openai/codex-security"
+      ],
+      "first_seen_at": "2026-11-12",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-13",
+      "last_reported_date": "2026-11-13",
+      "last_reported_summary": "收录于 reports/2026-11-13.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-13.md"
+      ]
+    },
+    {
+      "work_id": "github:copilotkit/openbot",
+      "title": "CopilotKit/OpenBot",
+      "source_keys": [
+        "github:copilotkit/openbot"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/CopilotKit/OpenBot"
+      ],
+      "first_seen_at": "2026-11-12",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-13",
+      "last_reported_date": "2026-11-13",
+      "last_reported_summary": "收录于 reports/2026-11-13.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-13.md"
       ]
     }
   ]
