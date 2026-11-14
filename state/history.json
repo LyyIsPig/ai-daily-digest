@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-13T00:06:01.601Z",
+  "last_successful_run_at": "2026-11-14T00:04:52.247Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -1105,6 +1105,137 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-13.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.15777",
+      "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+      "source_keys": [
+        "arxiv:2611.15777"
+      ],
+      "aliases": [
+        "github:holdrain/so-arena"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.15777",
+        "https://github.com/holdrain/SO-Arena"
+      ],
+      "first_seen_at": "2026-11-13",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-14",
+      "last_reported_date": "2026-11-14",
+      "last_reported_summary": "收录于 reports/2026-11-14.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-14.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.17167",
+      "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+      "source_keys": [
+        "arxiv:2611.17167"
+      ],
+      "aliases": [
+        "github:zju-real/decision-agents"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.17167",
+        "https://github.com/ZJU-REAL/decision-agents"
+      ],
+      "first_seen_at": "2026-11-13",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-14",
+      "last_reported_date": "2026-11-14",
+      "last_reported_summary": "收录于 reports/2026-11-14.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-14.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.16009",
+      "title": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents",
+      "source_keys": [
+        "arxiv:2611.16009"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.16009",
+        "https://zefanw.github.io/"
+      ],
+      "first_seen_at": "2026-11-13",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-14",
+      "last_reported_date": "2026-11-14",
+      "last_reported_summary": "收录于 reports/2026-11-14.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-14.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2607.13920",
+      "title": "DeepStress: Stress-Testing Deep Search Agents",
+      "source_keys": [
+        "arxiv:2607.13920"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2607.13920"
+      ],
+      "first_seen_at": "2026-11-13",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-14",
+      "last_reported_date": "2026-11-14",
+      "last_reported_summary": "收录于 reports/2026-11-14.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-14.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.12872",
+      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+      "source_keys": [
+        "arxiv:2611.12872"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.12872",
+        "https://viktoraxelsen.github.io/"
+      ],
+      "first_seen_at": "2026-11-13",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-14",
+      "last_reported_date": "2026-11-14",
+      "last_reported_summary": "收录于 reports/2026-11-14.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-14.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.08219",
+      "title": "Agent-R^2: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
+      "source_keys": [
+        "arxiv:2611.08219"
+      ],
+      "aliases": [
+        "github:zju-real/agent-r2"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.08219",
+        "https://github.com/ZJU-REAL/Agent-R2"
+      ],
+      "first_seen_at": "2026-11-13",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-14",
+      "last_reported_date": "2026-11-14",
+      "last_reported_summary": "收录于 reports/2026-11-14.md。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-14.md"
       ]
     }
   ]
