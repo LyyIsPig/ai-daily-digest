@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-14T00:04:52.247Z",
+  "last_successful_run_at": "2026-11-15T23:57:16.038Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -1236,6 +1236,86 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-14.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.10439",
+      "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction",
+      "source_keys": [
+        "arxiv:2611.10439"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.10439"
+      ],
+      "first_seen_at": "2026-11-16",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-16",
+      "last_reported_date": "2026-11-16",
+      "last_reported_summary": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-16.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.16409",
+      "title": "Experience-Handoff Reinforcement Learning for Recursive Self-Improvement",
+      "source_keys": [
+        "arxiv:2611.16409"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.16409"
+      ],
+      "first_seen_at": "2026-11-16",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-16",
+      "last_reported_date": "2026-11-16",
+      "last_reported_summary": "Experience-Handoff Reinforcement Learning for Recursive Self-Improvement",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-16.md"
+      ]
+    },
+    {
+      "work_id": "github:stablyai/orca",
+      "title": "stablyai/orca",
+      "source_keys": [
+        "github:stablyai/orca"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/stablyai/orca"
+      ],
+      "first_seen_at": "2026-11-16",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-16",
+      "last_reported_date": "2026-11-16",
+      "last_reported_summary": "stablyai/orca",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-16.md"
+      ]
+    },
+    {
+      "work_id": "github:heygen-com/hyperframes",
+      "title": "heygen-com/hyperframes",
+      "source_keys": [
+        "github:heygen-com/hyperframes"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/heygen-com/hyperframes"
+      ],
+      "first_seen_at": "2026-11-16",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-16",
+      "last_reported_date": "2026-11-16",
+      "last_reported_summary": "heygen-com/hyperframes",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-16.md"
       ]
     }
   ]
