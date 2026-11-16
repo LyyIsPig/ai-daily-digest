@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-15T23:57:16.038Z",
+  "last_successful_run_at": "2026-11-16T23:57:00.653Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -1316,6 +1316,106 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-16.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.12068",
+      "title": "MIRIX-2.0: Multi-Agent Memory System",
+      "source_keys": [
+        "arxiv:2611.12068"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.12068"
+      ],
+      "first_seen_at": "2026-11-17",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-17",
+      "last_reported_date": "2026-11-17",
+      "last_reported_summary": "MIRIX-2.0: Multi-Agent Memory System",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-17.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.17955",
+      "title": "WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents",
+      "source_keys": [
+        "arxiv:2611.17955"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.17955"
+      ],
+      "first_seen_at": "2026-11-17",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-17",
+      "last_reported_date": "2026-11-17",
+      "last_reported_summary": "WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-17.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.15789",
+      "title": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+      "source_keys": [
+        "arxiv:2611.15789"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.15789"
+      ],
+      "first_seen_at": "2026-11-17",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-17",
+      "last_reported_date": "2026-11-17",
+      "last_reported_summary": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-17.md"
+      ]
+    },
+    {
+      "work_id": "github:ag-ui-protocol/ag-ui",
+      "title": "ag-ui-protocol/ag-ui",
+      "source_keys": [
+        "github:ag-ui-protocol/ag-ui"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/ag-ui-protocol/ag-ui"
+      ],
+      "first_seen_at": "2026-11-17",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-17",
+      "last_reported_date": "2026-11-17",
+      "last_reported_summary": "ag-ui-protocol/ag-ui",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-17.md"
+      ]
+    },
+    {
+      "work_id": "github:nvidia/skillevaluator",
+      "title": "NVIDIA/SkillEvaluator",
+      "source_keys": [
+        "github:nvidia/skillevaluator"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/NVIDIA/SkillEvaluator"
+      ],
+      "first_seen_at": "2026-11-17",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-17",
+      "last_reported_date": "2026-11-17",
+      "last_reported_summary": "NVIDIA/SkillEvaluator",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-17.md"
       ]
     }
   ]
