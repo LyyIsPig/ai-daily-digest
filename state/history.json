@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-19T00:06:14.977Z",
+  "last_successful_run_at": "2026-11-19T23:57:39.719Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -1616,6 +1616,108 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-19.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.23068",
+      "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
+      "source_keys": [
+        "arxiv:2611.23068"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.23068"
+      ],
+      "first_seen_at": "2026-11-20",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-20",
+      "last_reported_date": "2026-11-20",
+      "last_reported_summary": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-20.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.24651",
+      "title": "Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement",
+      "source_keys": [
+        "arxiv:2611.24651"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.24651"
+      ],
+      "first_seen_at": "2026-11-20",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-20",
+      "last_reported_date": "2026-11-20",
+      "last_reported_summary": "Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-20.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.23257",
+      "title": "StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software",
+      "source_keys": [
+        "arxiv:2611.23257"
+      ],
+      "aliases": [
+        "github:pzy2000/state_portal"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.23257"
+      ],
+      "first_seen_at": "2026-11-20",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-20",
+      "last_reported_date": "2026-11-20",
+      "last_reported_summary": "StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-20.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.24362",
+      "title": "PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents",
+      "source_keys": [
+        "arxiv:2611.24362"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.24362"
+      ],
+      "first_seen_at": "2026-11-20",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-20",
+      "last_reported_date": "2026-11-20",
+      "last_reported_summary": "PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-20.md"
+      ]
+    },
+    {
+      "work_id": "github:vishalbanwari26/agent-diff",
+      "title": "vishalbanwari26/agent-diff",
+      "source_keys": [
+        "github:vishalbanwari26/agent-diff"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/vishalbanwari26/agent-diff"
+      ],
+      "first_seen_at": "2026-11-20",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-20",
+      "last_reported_date": "2026-11-20",
+      "last_reported_summary": "vishalbanwari26/agent-diff",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-20.md"
       ]
     }
   ]
