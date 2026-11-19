@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-17T23:59:50.516Z",
+  "last_successful_run_at": "2026-11-19T00:06:14.977Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -1516,6 +1516,106 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-18.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.18856",
+      "title": "Self-Improvement Memory Enables Continual Recursive Self-Improvement",
+      "source_keys": [
+        "arxiv:2611.18856"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.18856"
+      ],
+      "first_seen_at": "2026-11-19",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-19",
+      "last_reported_date": "2026-11-19",
+      "last_reported_summary": "Self-Improvement Memory Enables Continual Recursive Self-Improvement",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-19.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.21152",
+      "title": "From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop",
+      "source_keys": [
+        "arxiv:2611.21152"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.21152"
+      ],
+      "first_seen_at": "2026-11-19",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-19",
+      "last_reported_date": "2026-11-19",
+      "last_reported_summary": "From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-19.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.19244",
+      "title": "Agentic On-Policy Distillation Implicitly Reshapes LLMs' ReAct Patterns",
+      "source_keys": [
+        "arxiv:2611.19244"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.19244"
+      ],
+      "first_seen_at": "2026-11-19",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-19",
+      "last_reported_date": "2026-11-19",
+      "last_reported_summary": "Agentic On-Policy Distillation Implicitly Reshapes LLMs' ReAct Patterns",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-19.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.23219",
+      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "source_keys": [
+        "arxiv:2611.23219"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.23219"
+      ],
+      "first_seen_at": "2026-11-19",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-19",
+      "last_reported_date": "2026-11-19",
+      "last_reported_summary": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-19.md"
+      ]
+    },
+    {
+      "work_id": "github:nmcbride-42/claude-code-guardrails",
+      "title": "nmcbride-42/claude-code-guardrails",
+      "source_keys": [
+        "github:nmcbride-42/claude-code-guardrails"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/nmcbride-42/claude-code-guardrails"
+      ],
+      "first_seen_at": "2026-11-19",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-19",
+      "last_reported_date": "2026-11-19",
+      "last_reported_summary": "nmcbride-42/claude-code-guardrails",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-19.md"
       ]
     }
   ]
