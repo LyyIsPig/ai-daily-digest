@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-19T23:57:39.719Z",
+  "last_successful_run_at": "2026-11-21T00:05:59.927Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -1718,6 +1718,106 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-20.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.21373",
+      "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+      "source_keys": [
+        "arxiv:2611.21373"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.21373"
+      ],
+      "first_seen_at": "2026-11-21",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-21",
+      "last_reported_date": "2026-11-21",
+      "last_reported_summary": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-21.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.26444",
+      "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+      "source_keys": [
+        "arxiv:2611.26444"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.26444"
+      ],
+      "first_seen_at": "2026-11-21",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-21",
+      "last_reported_date": "2026-11-21",
+      "last_reported_summary": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-21.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.25387",
+      "title": "TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs",
+      "source_keys": [
+        "arxiv:2611.25387"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.25387"
+      ],
+      "first_seen_at": "2026-11-21",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-21",
+      "last_reported_date": "2026-11-21",
+      "last_reported_summary": "TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-21.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.26073",
+      "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+      "source_keys": [
+        "arxiv:2611.26073"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.26073"
+      ],
+      "first_seen_at": "2026-11-21",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-21",
+      "last_reported_date": "2026-11-21",
+      "last_reported_summary": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-21.md"
+      ]
+    },
+    {
+      "work_id": "github:hashgraph-online/hol-guard",
+      "title": "hashgraph-online/hol-guard",
+      "source_keys": [
+        "github:hashgraph-online/hol-guard"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/hashgraph-online/hol-guard"
+      ],
+      "first_seen_at": "2026-11-21",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-21",
+      "last_reported_date": "2026-11-21",
+      "last_reported_summary": "hashgraph-online/hol-guard",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-21.md"
       ]
     }
   ]
