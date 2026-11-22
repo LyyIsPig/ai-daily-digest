@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-21T00:05:59.927Z",
+  "last_successful_run_at": "2026-11-22T00:00:28.271Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -1818,6 +1818,106 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-21.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.26510",
+      "title": "AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher",
+      "source_keys": [
+        "arxiv:2611.26510"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.26510"
+      ],
+      "first_seen_at": "2026-11-22",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-22",
+      "last_reported_date": "2026-11-22",
+      "last_reported_summary": "通过技能引导教师轨迹，改善后训练示范。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-22.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.19230",
+      "title": "CompoundingKernel: Self-Improving from Zero to First",
+      "source_keys": [
+        "arxiv:2611.19230"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.19230"
+      ],
+      "first_seen_at": "2026-11-22",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-22",
+      "last_reported_date": "2026-11-22",
+      "last_reported_summary": "多 Agent 搜索 GPU kernel，以外部正确性检查和结果档案迭代。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-22.md"
+      ]
+    },
+    {
+      "work_id": "github:mahdi-al-hakim/warden",
+      "title": "mahdi-al-hakim/warden",
+      "source_keys": [
+        "github:mahdi-al-hakim/warden"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/mahdi-al-hakim/warden"
+      ],
+      "first_seen_at": "2026-11-22",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-22",
+      "last_reported_date": "2026-11-22",
+      "last_reported_summary": "通过策略代理审核 Agent 工具调用，并在模拟离职流程中测试。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-22.md"
+      ]
+    },
+    {
+      "work_id": "github:marcus-beauregard/agent-runner",
+      "title": "marcus-beauregard/agent-runner",
+      "source_keys": [
+        "github:marcus-beauregard/agent-runner"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/marcus-beauregard/agent-runner"
+      ],
+      "first_seen_at": "2026-11-22",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-22",
+      "last_reported_date": "2026-11-22",
+      "last_reported_summary": "早期 Go 编程 Agent 框架，当前使用模拟规划器。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-22.md"
+      ]
+    },
+    {
+      "work_id": "github:shuymn/stack",
+      "title": "shuymn/stack",
+      "source_keys": [
+        "github:shuymn/stack"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/shuymn/stack"
+      ],
+      "first_seen_at": "2026-11-22",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-22",
+      "last_reported_date": "2026-11-22",
+      "last_reported_summary": "Go 编程 Agent 工作流工具，提供会话和合并管理。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-22.md"
       ]
     }
   ]
