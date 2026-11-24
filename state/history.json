@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-22T00:00:28.271Z",
+  "last_successful_run_at": "2026-11-23T23:59:42.866Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -1918,6 +1918,108 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-22.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.27973",
+      "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+      "source_keys": [
+        "arxiv:2611.27973"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.27973"
+      ],
+      "first_seen_at": "2026-11-24",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-24",
+      "last_reported_date": "2026-11-24",
+      "last_reported_summary": "压缩并按需解码语言模型记忆状态。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-24.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.25773",
+      "title": "Duopra: From Full-Duplex Conversation to Full-Duplex Agency",
+      "source_keys": [
+        "arxiv:2611.25773"
+      ],
+      "aliases": [
+        "github:cychen2003/duopra"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.25773"
+      ],
+      "first_seen_at": "2026-11-24",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-24",
+      "last_reported_date": "2026-11-24",
+      "last_reported_summary": "全双工语音交互中学习工具调用与任务委派。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-24.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.21485",
+      "title": "Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits",
+      "source_keys": [
+        "arxiv:2611.21485"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.21485"
+      ],
+      "first_seen_at": "2026-11-24",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-24",
+      "last_reported_date": "2026-11-24",
+      "last_reported_summary": "评测跨次访问的空间记忆。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-24.md"
+      ]
+    },
+    {
+      "work_id": "github:elementalsouls/claude-bughunter",
+      "title": "elementalsouls/Claude-BugHunter",
+      "source_keys": [
+        "github:elementalsouls/claude-bughunter"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/elementalsouls/Claude-BugHunter"
+      ],
+      "first_seen_at": "2026-11-24",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-24",
+      "last_reported_date": "2026-11-24",
+      "last_reported_summary": "Claude Code 安全研究技能包。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-24.md"
+      ]
+    },
+    {
+      "work_id": "github:hkuds/cli-anything",
+      "title": "HKUDS/CLI-Anything",
+      "source_keys": [
+        "github:hkuds/cli-anything"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/HKUDS/CLI-Anything"
+      ],
+      "first_seen_at": "2026-11-24",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-24",
+      "last_reported_date": "2026-11-24",
+      "last_reported_summary": "为软件建立面向 Agent 的命令行接口。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-24.md"
       ]
     }
   ]
