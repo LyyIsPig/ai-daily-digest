@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-23T23:59:42.866Z",
+  "last_successful_run_at": "2026-11-25T00:02:03.212Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -2020,6 +2020,109 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-24.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.31201",
+      "title": "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness",
+      "source_keys": [
+        "arxiv:2611.31201"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.31201"
+      ],
+      "first_seen_at": "2026-11-25",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-25",
+      "last_reported_date": "2026-11-25",
+      "last_reported_summary": "系统研究机器人策略 harness 的提示、规划、动作和工具。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-25.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.12164",
+      "title": "Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood",
+      "source_keys": [
+        "arxiv:2611.12164"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.12164"
+      ],
+      "first_seen_at": "2026-11-25",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-25",
+      "last_reported_date": "2026-11-25",
+      "last_reported_summary": "用修复器评分训练代码定位器。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-25.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.28202",
+      "title": "AutoPILOT: A Visual Agent Harness for Real-Time Gameplay",
+      "source_keys": [
+        "arxiv:2611.28202"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.28202"
+      ],
+      "first_seen_at": "2026-11-25",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-25",
+      "last_reported_date": "2026-11-25",
+      "last_reported_summary": "用宏和闭环控制器支持实时游戏 Agent。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-25.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.30207",
+      "title": "What Makes Good Data for Training Coding Agents? A Systematic Study on SWE-Gym",
+      "source_keys": [
+        "arxiv:2611.30207"
+      ],
+      "aliases": [
+        "github:arist12/swe-gym-verified"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.30207",
+        "https://github.com/Arist12/SWE-Gym-Verified"
+      ],
+      "first_seen_at": "2026-11-25",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-25",
+      "last_reported_date": "2026-11-25",
+      "last_reported_summary": "审核编程 Agent 训练数据中奖励标签的正确性。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-25.md"
+      ]
+    },
+    {
+      "work_id": "github:tracer-cloud/opensre",
+      "title": "Tracer-Cloud/opensre",
+      "source_keys": [
+        "github:tracer-cloud/opensre"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/Tracer-Cloud/opensre"
+      ],
+      "first_seen_at": "2026-11-25",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-25",
+      "last_reported_date": "2026-11-25",
+      "last_reported_summary": "分析 CI 失败和生产故障的开源 Agent。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-25.md"
       ]
     }
   ]
