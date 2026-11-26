@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-25T00:02:03.212Z",
+  "last_successful_run_at": "2026-11-26T00:02:20.050Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -2123,6 +2123,109 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-25.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.32884",
+      "title": "Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe",
+      "source_keys": [
+        "arxiv:2611.32884"
+      ],
+      "aliases": [
+        "github:declare-lab/rlvb"
+      ],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.32884",
+        "https://github.com/declare-lab/RLVB"
+      ],
+      "first_seen_at": "2026-11-26",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-26",
+      "last_reported_date": "2026-11-26",
+      "last_reported_summary": "用可验证信念奖励 Agent 在证据不足时继续观察。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-26.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.28947",
+      "title": "Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents",
+      "source_keys": [
+        "arxiv:2611.28947"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.28947"
+      ],
+      "first_seen_at": "2026-11-26",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-26",
+      "last_reported_date": "2026-11-26",
+      "last_reported_summary": "用轻量观察模型同步电脑操作 Agent 与动态界面。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-26.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.31205",
+      "title": "ACAP: Asynchronous Coding Agents for Efficient Robot Control",
+      "source_keys": [
+        "arxiv:2611.31205"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.31205"
+      ],
+      "first_seen_at": "2026-11-26",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-26",
+      "last_reported_date": "2026-11-26",
+      "last_reported_summary": "多个持久 Agent 异步控制机器人并协调依赖。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-26.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.32973",
+      "title": "SpecEngineeringBench: Evaluating Coding Agents as Autonomous Specification Engineers",
+      "source_keys": [
+        "arxiv:2611.32973"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.32973"
+      ],
+      "first_seen_at": "2026-11-26",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-26",
+      "last_reported_date": "2026-11-26",
+      "last_reported_summary": "评估编程 Agent 从需求生成测试并发现缺陷。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-26.md"
+      ]
+    },
+    {
+      "work_id": "github:mvanhorn/last30days-skill",
+      "title": "mvanhorn/last30days-skill",
+      "source_keys": [
+        "github:mvanhorn/last30days-skill"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/mvanhorn/last30days-skill"
+      ],
+      "first_seen_at": "2026-11-26",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-26",
+      "last_reported_date": "2026-11-26",
+      "last_reported_summary": "跨来源检索近 30 天材料并汇总的 Agent 技能。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-26.md"
       ]
     }
   ]
