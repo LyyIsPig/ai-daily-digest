@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-26T00:02:20.050Z",
+  "last_successful_run_at": "2026-11-27T00:05:17.862Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -2226,6 +2226,106 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-26.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.34466",
+      "title": "EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts",
+      "source_keys": [
+        "arxiv:2611.34466"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.34466"
+      ],
+      "first_seen_at": "2026-11-27",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-27",
+      "last_reported_date": "2026-11-27",
+      "last_reported_summary": "评估电脑操作 Agent 如何处理变化的第一人称环境和意图。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-27.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.34147",
+      "title": "Letting Models Manage Their Own Context: Where We Stand",
+      "source_keys": [
+        "arxiv:2611.34147"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.34147"
+      ],
+      "first_seen_at": "2026-11-27",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-27",
+      "last_reported_date": "2026-11-27",
+      "last_reported_summary": "研究模型主动压缩上下文和缓存复用。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-27.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.28244",
+      "title": "Demystifying the Autoresearch Harness: How Context and Skills Shape Self-Evolving Agents",
+      "source_keys": [
+        "arxiv:2611.28244"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.28244"
+      ],
+      "first_seen_at": "2026-11-27",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-27",
+      "last_reported_date": "2026-11-27",
+      "last_reported_summary": "研究自主研究 Agent 的上下文折叠和技能删除。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-27.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.21056",
+      "title": "Evaluation-Free Recursive Self-Improvement for Coding Agents",
+      "source_keys": [
+        "arxiv:2611.21056"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.21056"
+      ],
+      "first_seen_at": "2026-11-27",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-27",
+      "last_reported_date": "2026-11-27",
+      "last_reported_summary": "通过兼容机制整合而非下游候选评测演化编程 Agent。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-27.md"
+      ]
+    },
+    {
+      "work_id": "github:google-labs-code/stitch-skills",
+      "title": "google-labs-code/stitch-skills",
+      "source_keys": [
+        "github:google-labs-code/stitch-skills"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/google-labs-code/stitch-skills"
+      ],
+      "first_seen_at": "2026-11-27",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-27",
+      "last_reported_date": "2026-11-27",
+      "last_reported_summary": "面向 Google Stitch 设计工作流的 Agent 技能。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-27.md"
       ]
     }
   ]
