@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "last_successful_run_at": "2026-11-27T00:05:17.862Z",
+  "last_successful_run_at": "2026-11-28T00:04:40.789Z",
   "baseline_report": "reports/2026-11-05.md",
   "works": [
     {
@@ -2326,6 +2326,106 @@
       "reported_versions": [],
       "report_paths": [
         "reports/2026-11-27.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.34232",
+      "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+      "source_keys": [
+        "arxiv:2611.34232"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.34232"
+      ],
+      "first_seen_at": "2026-11-28",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-28",
+      "last_reported_date": "2026-11-28",
+      "last_reported_summary": "跨多个桌面、移动和网页平台评测电脑操作 Agent。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-28.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.34852",
+      "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+      "source_keys": [
+        "arxiv:2611.34852"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.34852"
+      ],
+      "first_seen_at": "2026-11-28",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-28",
+      "last_reported_date": "2026-11-28",
+      "last_reported_summary": "用知识树衡量深度研究报告的广度与深度。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-28.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.30494",
+      "title": "Revisiting LLMs as Context Engineers",
+      "source_keys": [
+        "arxiv:2611.30494"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.30494"
+      ],
+      "first_seen_at": "2026-11-28",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-28",
+      "last_reported_date": "2026-11-28",
+      "last_reported_summary": "研究模型从失败经验自动构建上下文的局限。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-28.md"
+      ]
+    },
+    {
+      "work_id": "arxiv:2611.30483",
+      "title": "When an AI agent makes a mistake in a database, what decides the damage?",
+      "source_keys": [
+        "arxiv:2611.30483"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://huggingface.co/papers/2611.30483"
+      ],
+      "first_seen_at": "2026-11-28",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-28",
+      "last_reported_date": "2026-11-28",
+      "last_reported_summary": "研究不同数据库和权限下 Agent 错误的损害及可恢复性。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-28.md"
+      ]
+    },
+    {
+      "work_id": "github:cathrynlavery/diagram-design",
+      "title": "cathrynlavery/diagram-design",
+      "source_keys": [
+        "github:cathrynlavery/diagram-design"
+      ],
+      "aliases": [],
+      "source_urls": [
+        "https://github.com/cathrynlavery/diagram-design"
+      ],
+      "first_seen_at": "2026-11-28",
+      "first_seen_precision": "date",
+      "first_reported_date": "2026-11-28",
+      "last_reported_date": "2026-11-28",
+      "last_reported_summary": "生成独立 HTML 和 SVG 图表的 Agent 技能。",
+      "reported_versions": [],
+      "report_paths": [
+        "reports/2026-11-28.md"
       ]
     }
   ]
